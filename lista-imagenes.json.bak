@@ -1,0 +1,43 @@
+{
+    "num_ventanas": 0,
+    "num_imagenes": 0,
+    "ventanas": [
+      {
+        "id": 1,
+        "codigo": "MDLS-01",
+        "nombre": "",
+        "autor": "",
+        "fecha": "",
+        "ubicacion": "",
+        "coordenadas": "",
+        "descripcion": "",
+        "num_imagenes": 1,
+        "imagenes": ["imagen1.jpg"]
+      },
+      {
+        "id": 2,
+        "codigo": "MDLS-02",
+        "nombre": "",
+        "autor": "",
+        "fecha": "",
+        "ubicacion": "",
+        "coordenadas": "",
+        "descripcion": "",
+        "num_imagenes": 1,
+        "imagenes": ["imagen1.jpg"]
+      },
+      {
+        "id": 3,
+        "codigo": "MDLS-03",
+        "nombre": "",
+        "autor": "",
+        "fecha": "",
+        "ubicacion": "",
+        "coordenadas": "",
+        "descripcion": "",
+        "num_imagenes": 1,
+        "imagenes": ["imagen1.jpg"]
+      }
+    ]
+  }
+  
