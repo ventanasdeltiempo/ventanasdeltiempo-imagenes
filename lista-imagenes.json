@@ -1,0 +1,22 @@
+{
+    "num_ventanas": 0,
+    "num_imagenes": 0,
+    "ventanas": [
+      {
+        "id": 1,
+        "num_imagenes": 2,
+        "imagenes": ["imagen1.jpg", "imagen2.jpg"]
+      },
+      {
+        "id": 2,
+        "num_imagenes": 3,
+        "imagenes": ["foto_a.jpg", "foto_b.jpg", "foto_c.jpg"]
+      },
+      {
+        "id": 3,
+        "num_imagenes": 1,
+        "imagenes": ["captura.png"]
+      }
+    ]
+  }
+  
