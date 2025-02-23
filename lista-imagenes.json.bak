@@ -1,6 +1,6 @@
 {
   "num_ventanas": 9,
-  "num_imagenes": 14,
+  "num_imagenes": 0,
   "ventanas": [
     {
       "id": 1,
@@ -12,7 +12,8 @@
       "coordenadas": "",
       "descripcion": "",
       "num_imagenes": 0,
-      "imagenes": []
+      "imagenes": [
+      ]
     },
     {
       "id": 2,
@@ -23,10 +24,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 2,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-03-30_Ricardo Camino.jpg",
-        "2024-11-19_Chospa Zagal.jpg"
       ]
     },
     {
@@ -38,9 +37,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 1,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-09-10_Rosa Heras Moreno.jpg"
       ]
     },
     {
@@ -52,13 +50,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 5,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-08-15_Eduardo Esteban Esteban.jpg",
-        "2024-09-25_Maxi Esteban.jpg",
-        "2024-11-10_Javier Cuesta.jpg",
-        "2025-01-13_Bakartxo Etxeberria.jpg",
-        "2025-01-26_Arturo Sagredo.jpg"
       ]
     },
     {
@@ -71,7 +64,8 @@
       "coordenadas": "",
       "descripcion": "",
       "num_imagenes": 0,
-      "imagenes": []
+      "imagenes": [
+      ]
     },
     {
       "id": 6,
@@ -82,10 +76,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 2,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-10-06_Soledad Echeverria Dorronsoro.jpg",
-        "2024-11-30_Chospa Zagal.jpg"
       ]
     },
     {
@@ -97,10 +89,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 2,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-10-06_Soledad Echeverria Dorronsoro.jpg",
-        "2024-12-09_Chospa Zagal.jpg"
       ]
     },
     {
@@ -112,10 +102,8 @@
       "ubicacion": "Monasterio de la Sierra, Burgos",
       "coordenadas": "",
       "descripcion": "",
-      "num_imagenes": 2,
+      "num_imagenes": 0,
       "imagenes": [
-        "2024-08-25_Marta De Blas.jpg",
-        "2025-01-26_Vicente Sanz.jpg"
       ]
     },
     {
@@ -128,7 +116,8 @@
       "coordenadas": "",
       "descripcion": "",
       "num_imagenes": 0,
-      "imagenes": []
+      "imagenes": [
+      ]
     }
   ]
 }
